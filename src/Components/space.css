@@ -1,0 +1,35 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+.center-table {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.center-table th,
+.center-table td {
+  padding: 10px;
+}
+.pagination_button_next{
+  margin-left: 10px;
+}
+.pagination_button_previous{
+  margin-right: 10px;
+}
+.close{
+  border: none;
+  background-color: transparent;
+}
+.small-input {
+  width: 150px; /* Adjust the width as needed */
+  padding: 5px 10px; /* Adjust the padding as needed */
+  font-size: 14px; /* Adjust the font size as needed */
+  margin-left: 10px;
+}
+.left_space{
+  margin-left: 10px;
+}
+.table{
+  width: 60%;
+  margin-top: 16px;
+}
